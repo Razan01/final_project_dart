@@ -50,17 +50,17 @@ Also, it can be searching, adding, modifying, deleting, and buying books.
 
 
 ```bash
-                                              --------Welcome to Razan & Norah Bookstore--------
+                                  --------Welcome to Razan & Norah Bookstore--------
 
-                                  --------you will find all the lovely books that you intrested with--------
+                      --------you will find all the lovely books that you intrested with--------
 
-                                                      --------hope you injoy--------
+                                           --------hope you injoy--------
 
-                                                                ***   ***
-                                                               ***** *****
-                                                                *********
-                                                                  *****
-                                                                    *
+                                                     ***   ***
+                                                    ***** *****
+                                                     *********
+                                                       *****
+                                                         *
 
 ```
 
